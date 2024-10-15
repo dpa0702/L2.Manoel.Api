@@ -1,0 +1,6 @@
+@L2.Manoel.EmbalagemMS_HostAddress = http://localhost:5007
+
+GET {{L2.Manoel.EmbalagemMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
